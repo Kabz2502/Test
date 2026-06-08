@@ -1,5 +1,6 @@
 def say_hello(nam32e):
     print(f'Hello {nam32e}')
+    print(f'Hello {"hi}')
 
 say_hello('kabz')
 
